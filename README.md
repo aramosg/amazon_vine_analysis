@@ -30,9 +30,6 @@ We have a total of 15 paid five-star reviews. Also, we have 4,332 unpaid five-st
 From the Vine reviews, almost 32% were five-star reviews. For the unpaid review, the proportion is higher, with almost 52% of five-star reviews. 
 
 ## Summary
-    - The summary states whether or not there is bias, and the results support this statement (2 pt)
-    - An additional analysis is recommended to support the statement (2 pt)
-
 After analyzing the dataset, we realized there are only a few reviews that are paind under the "Watches" category. On the ther hand, we have plenty of unpaid reviews. If you ask me, these are the ones that are really valuable. 
 
 Let's look at the percentage of five-star revies, Vine reviews. The percentaje is relatively small, with only 32%. Before starting this analysis, my guess would have been that percentage would be higher. Also, I was expecting to have a higher number of Vine reviews. After all, people is getting paid for providing their reviews. 
